@@ -3,9 +3,7 @@
 **Una app para Android que te muestra qué está ocupando espacio en tu teléfono y te ayuda a liberarlo.**
 Sin publicidad, sin conexión a internet y sin cuentas: un solo propósito, ordenar tu almacenamiento.
 
-!\[Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?logo=android\&logoColor=white)
-!\[Versión](https://img.shields.io/badge/versi%C3%B3n-1.0-7C3AED)
-!\[Sin internet](https://img.shields.io/badge/Internet-no%20usa-success)
+
 
 \---
 
